@@ -7,9 +7,7 @@ This repo contains two main parts:
 
 Current production backend URL:
 
-- `https://empire-rag-backend.soorya220104.workers.dev`
-
-The frontend is configured to talk to this URL.
+- `https://empire-rag-dashboard.pages.dev`
 
 ---
 
